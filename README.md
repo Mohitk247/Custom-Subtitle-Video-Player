@@ -1,4 +1,4 @@
-# Video Player with Customizable Subtitles(Will update this by 30-05-2024 11:59 PM)
+# Video Player with Customizable Subtitles
 
 This project is a web-based video player that allows users to customize subtitles in various styles and templates. It includes features for video playback, subtitle customization, and supports subtitle files in SRT format.
 
@@ -15,7 +15,7 @@ This project is a web-based video player that allows users to customize subtitle
 
 3. **User Interface**:
    - Clean and intuitive UI/UX.
-   - Aligned with the overall design aesthetics of Clipo AI.
+   - Aligned with the overall design aesthetics.
 
 ## Getting Started
 
